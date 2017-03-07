@@ -1,0 +1,113 @@
+<head>
+  <link href="/assets/normalize.css" rel="stylesheet">
+  <title>Socially Savvy Apps</title>
+  <style>
+    header {
+      font-family: helvetica;
+    }
+    body {
+      text-align: center;
+      color: black;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 40px;
+      padding: 0 0 15px 0;
+      text-align: center;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    /*
+    input[type="submit"] {
+      background: #FFD700;
+      border: 2px solid black;
+      color: black;
+      font-size: 18px;
+      border-radius: 10px;
+    }
+    input[placeholder="Your email"] {
+      border:2px solid black;
+      border-radius: 10px;
+    }
+    input[placeholder="Your name"] {
+      border:2px solid black;
+      border-radius: 10px;
+    }
+    */
+    article {
+      max-width: 800px;
+      padding: 20px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    h2 {
+      text-align: center;
+    }
+    p {
+      font-size: 18px;
+      text-align: left;
+      text-align: justify;
+      line-height: 24px;
+    }
+    /*
+     ul {
+      background: url("http://i.imgur.com/2bKJZOE.png");
+      background-size: 10%;
+      background-position: center;
+    }
+    */
+ul{
+  .privacypolicy {
+    text-align: center;
+}
+
+}
+    a {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    h3 {
+      text-align: center;
+    }
+    #title-socially {
+      color: #ee3346;
+    }
+    #title-savvy {
+      color: #f5a62b;
+    }
+  .logo {
+      position: center;
+  }
+  .about{
+   padding:20px;
+   text-align: center;
+  }
+   ul {
+      padding: 25px;
+    }
+  li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+      ul {
+      background: rgba(255,165,0,0.5);
+    }
+    }
+  </style>
+</head>
