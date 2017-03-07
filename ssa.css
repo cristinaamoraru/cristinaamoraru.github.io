@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
   <link href="/assets/normalize.css" rel="stylesheet">
   <title>Socially Savvy Apps</title>
@@ -24,7 +25,6 @@
       padding: 10px;
       font-size: 18px;
     }
-    /*
     input[type="submit"] {
       background: #FFD700;
       border: 2px solid black;
@@ -40,7 +40,6 @@
       border:2px solid black;
       border-radius: 10px;
     }
-    */
     article {
       max-width: 800px;
       padding: 20px;
